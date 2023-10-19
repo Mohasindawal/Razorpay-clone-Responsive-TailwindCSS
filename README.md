@@ -14,4 +14,3 @@ Welcome to my Razorpay Clone project, which is my Tailwind CSS first project! Th
 - **Tailwind CSS**: This project was created using Tailwind CSS, a utility-first CSS framework, to build a responsive and visually appealing user interface.
 
 
-[View Razorpay Clone](https://mohasindawal.github.io/Razorpay-Clone-Responsive-TailwindCSS/)
