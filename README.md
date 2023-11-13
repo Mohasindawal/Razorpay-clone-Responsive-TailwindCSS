@@ -2,7 +2,7 @@
 
 Welcome to my Razorpay Clone project, which is my Tailwind CSS first project! This project aims to replicate the Razorpay user interface and functionality while showcasing my skills in front-end development.
 
-
+![Project Preview](images/ss1.PNG)
 ## Features
 
 - **Responsive Design**: The entire application is designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.
