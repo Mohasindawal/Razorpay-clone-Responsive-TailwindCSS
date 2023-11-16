@@ -7,7 +7,7 @@ Welcome to my Razorpay Clone project, which is my Tailwind CSS first project! Th
 
 - **Responsive Design**: The entire application is designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.
 
-- **Authentic Razorpay Look**: I've paid close attention to recreating the familiar and aesthetic Razorpay interface, including server channels, chat, and user roles.
+- **Authentic Razorpay Look**: I've paid close attention to recreating the familiar and aesthetic Razorpay interface and user roles.
 
 ## Technologies Used
 
